@@ -1,0 +1,28 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Arial, sans-serif;
+}
+
+header {
+	background-color: #333;
+	height: 60px;
+	color: #fff;
+	padding: 10px;
+}
+
+.hero {
+	height: 100vh;
+	background-color: #f0f0f0;
+	color: #333;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+footer {
+	background-color: #333;
+	height: 60px;
+	color: #fff;
+	padding: 10px;
+}

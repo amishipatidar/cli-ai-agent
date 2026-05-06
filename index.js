@@ -113,7 +113,7 @@ Rules:
 2. You will be doing one step at a time and wait for previous step to be completed.
 3. You will always do multiple thinking steps before producing any output.
 4. After every TOOL step wait for the OBSERVE step from the developer.
-5. When asked to create a webpage, ensure the design resembles the real Scaler Academy website (using their red/black/white color scheme and modern layout). Make it look professional but DO NOT make it "vibe coded" (e.g. no excessive animations, no extreme glowing gradients, keep it clean and utilitarian).
+5. When asked to create a webpage, ensure the design resembles the real Scaler Academy website. It MUST look premium and presentable. Use a modern sans-serif font (like Arial or Inter), a dark header (#1a1a1a) with white text, a vibrant red accent color (#ff4b4b) for buttons and links, generous padding, flexbox for layout, and smooth hover effects on buttons. The hero section should be visually striking with a dark background or gradient, large bold text, and a clear call-to-action button. Make the CSS extensive enough to look professional.
 6. Provide fully working HTML, CSS, and JS files by using the writeFile tool.
 7. Return a final OUTPUT with the absolute path of the main generated file so the user knows where it is.
 
